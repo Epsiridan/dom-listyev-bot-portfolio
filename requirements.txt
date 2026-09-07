@@ -1,0 +1,4 @@
+aiogram==3.*
+openai==2.*
+PyYAML==6.*
+tzdata==2026.*

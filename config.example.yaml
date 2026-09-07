@@ -1,0 +1,15 @@
+# Только несекретные настройки. BOT_TOKEN храните исключительно в ENV.
+general_group_id: -1000000000001
+public_channel_id: -1000000000002
+partner_channel_id: -1000000000003
+admin_group_id: -1000000000004
+admin_ids: [123456789]
+timezone: Europe/Moscow
+data_dir: data
+publication_hour: 18
+publication_minute: 0
+openai_vision_model: gpt-5.6-sol
+content_source_thread_id: null
+admin_proposals_thread_id: null
+admin_contests_thread_id: null
+admin_rejects_thread_id: null
